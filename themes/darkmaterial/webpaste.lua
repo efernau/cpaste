@@ -63,6 +63,7 @@ return doctype()(
 				border: none;
 				border-radius: 2px;
 				color: #fff;
+				height: 33px;
 				text-decoration: none;
 				transition: 0.2s;
 			}
